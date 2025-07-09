@@ -4,6 +4,10 @@
 
 ### Tutorial & FAQ
 
+#### My info
+
+- [Typical structure of a REST project in Go](https://github.com/andrey-matveyev/resources/tree/master/my/structure_Rest.md)
+
 #### Main
 
  - [https://go.dev/](https://go.dev/)
